@@ -1,4 +1,4 @@
-## Hi there 👋
+## 김민규입니다.👋
 
 <br>🔭 I’m currently working on: 취업준비중입니다.</br>
 <br>🌱 I’m currently learning: PYTHON</br>
