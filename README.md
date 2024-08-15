@@ -1,10 +1,11 @@
-## 김민규입니다.👋
+## I'm  ~ Kim Min Gyu 👋
 
 <br>🔭 I’m currently working on: 취업준비중입니다.</br>
 <br>🌱 I’m currently learning: PYTHON</br>
 <br>📫 How to reach me: mingyu99809820@gmail.com</br>
 <br>😄 Pronouns: 황규</br>
 <br>
+## 💻 my Stack ...
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
