@@ -1,6 +1,5 @@
 ## I'm  ~ Kim Min Gyu 👋
 
-<br>🔭 I’m currently working on: 취업준비중입니다.</br>
 <br>🌱 I’m currently learning: PYTHON</br>
 <br>📫 How to reach me: mingyu99809820@gmail.com</br>
 <br>😄 Pronouns: 황규</br>
