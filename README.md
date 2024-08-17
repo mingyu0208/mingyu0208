@@ -1,4 +1,4 @@
-## I'm  ~ Kim Mingyu👋
+## Welcome to my portfolio ~👋
 
 <br>🌱 I’m currently learning: PYTHON</br>
 <br>📫 How to reach me: mingyu99809820@gmail.com</br>
