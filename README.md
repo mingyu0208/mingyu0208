@@ -1,4 +1,4 @@
-## I'm  ~ Kim Min Gyu 👋
+## I'm  ~ Kim Mingyu👋
 
 <br>🌱 I’m currently learning: PYTHON</br>
 <br>📫 How to reach me: mingyu99809820@gmail.com</br>
