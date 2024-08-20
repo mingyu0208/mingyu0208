@@ -4,6 +4,7 @@
 <br>📫 How to reach me: mingyu99809820@gmail.com</br>
 <br>😄 Pronouns: 황규</br>
 <br>📘 My school is: 경주정보고등학교</br>
+<br>🎈 My goal is: Creative Full-stack Developer</br>
 <br>
 ## 💻 my Stack ...
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
