@@ -5,9 +5,9 @@
 ## Welcome to my portfolio ~👋
 
 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyu0208&count_private=true&show_icons=true&theme=solarized-light)
 
+## Introduction 🥶
 <br>😄 Pronouns: 황규</br>
 <br>✨ My Hobby: 드럼치기 🥁</br>
 <br>🌱 I’m currently learning: PYTHON</br>
@@ -23,6 +23,12 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+
+## About me ✨
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br></br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mingyu0208)]([https://velog.io/@mingyu0208/posts])
+
 </br>
