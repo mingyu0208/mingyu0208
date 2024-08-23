@@ -29,6 +29,6 @@
 ## About me ✨
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br></br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mingyu0208)]([https://velog.io/@mingyu0208/posts])
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mingyu0208)](https://velog.io/@mingyu0208/posts)
 
 </br>
