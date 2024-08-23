@@ -1,4 +1,4 @@
- <div align=center>
+ 
 
 
 
@@ -7,15 +7,16 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyu0208&count_private=true&show_icons=true&theme=solarized-light)
 
+
 ## Introduction 🥶
 <br>😄 Pronouns: 황규</br>
 <br>✨ My Hobby: 드럼치기 🥁</br>
 <br>🌱 I’m currently learning: PYTHON</br>
 <br>📘 My school is: 경주정보고등학교</br>
 <br>🎈 My goal is: Creative Full-stack Developer</br>
-
 <br>📫 How to reach me: mingyu99809820@gmail.com</br>
 <br>
+
 ## my Stack 💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
