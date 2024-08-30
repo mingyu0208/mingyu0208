@@ -10,7 +10,7 @@
 
 ## Introduction 🥶
 <br>😄 Pronouns: 황규</br>
-<br>✨ My Hobby: 드럼치기 🥁</br>
+<br>✨ My Hobby: 드럼 (잘함)🥁</br>
 <br>🌱 I’m currently learning: PYTHON</br>
 <br>📘 My school is: 경주정보고등학교</br>
 <br>🎈 My goal is: Creative Full-stack Developer</br>
