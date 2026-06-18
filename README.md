@@ -9,10 +9,9 @@
 
 
 ## Introduction 🥶
-<br>😄 Pronouns: 황규</br>
-<br>✨ My Hobby: 드럼 (잘함)🥁</br>
+<br>✨ My Hobby: 🥁</br>
 <br>🌱 I’m currently learning: PYTHON</br>
-<br>📘 My school is: 경주정보고등학교</br>
+<br>📘 My school is: 경일대학교</br>
 <br>🎈 My goal is: Creative Full-stack Developer</br>
 <br>📫 How to reach me: mingyu99809820@gmail.com</br>
 <br>
