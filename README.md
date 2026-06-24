@@ -12,7 +12,7 @@
 <br>✨ My Hobby: 🥁</br>
 <br>🌱 I’m currently learning: PYTHON</br>
 <br>📘 My school is: 경일대학교</br>
-<br>🎈 My goal is: 로봇엔지니어 </br>
+<br>🎈 My goal is: whiteHaker </br>
 <br>📫 How to reach me: mingyu99809820@gmail.com</br>
 <br>
 
