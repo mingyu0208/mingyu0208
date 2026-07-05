@@ -5,10 +5,6 @@
 ## Welcome to my portfolio ~👋
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyu0208&count_private=true&show_icons=true&theme=solarized-light)
-
-
-## Introduction 🥶
 <br>✨ My Hobby: 🥁</br>
 <br>🌱 I’m currently learning: PYTHON</br>
 <br>📘 My school is: 경일대학교</br>
