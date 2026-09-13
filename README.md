@@ -6,7 +6,7 @@
 
 
 <br>✨ My Hobby: 🥁</br>
-<br>🌱 I’m currently learning: PYTHON</br>
+<br>🌱 I’m currently learning: ros2🤖 </br>
 <br>🎈 My goal is: whiteHaker </br>
 <br>📫 How to reach me: mingyu99809820@gmail.com</br>
 <br>
